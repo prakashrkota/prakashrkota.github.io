@@ -6,7 +6,7 @@
     <title>This is the readme file</title>
 </head>
 <body>
-    <h1>Hello World!</h1>
+    <h1>Readme File</h1>
     <p>Welcome to your first HTML page!</p>
 </body>
 </html>
